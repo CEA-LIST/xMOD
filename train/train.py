@@ -1,5 +1,3 @@
-# train.py
-
 import argparse
 import os
 import yaml

@@ -1,5 +1,3 @@
-# kitti_dataset.py
-
 import os
 import random
 from typing import Callable, Tuple, List, Dict, Any

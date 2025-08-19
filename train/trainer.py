@@ -1,5 +1,3 @@
-# trainer.py
-
 import datetime
 import os
 import time

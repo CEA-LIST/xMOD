@@ -1,5 +1,3 @@
-# utils.py
-
 import os
 import random
 from collections import OrderedDict
